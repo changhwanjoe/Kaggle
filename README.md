@@ -3,15 +3,15 @@ Kaggle Since June 9th
 
 # Index
 - [KaggleWinner_book](#KaggleWinner_book)
-캐글 우승작으로 배우는 머신러닝 탐구생활
-From github.com/bjpublic/kaggleml
-- [Kaggle-Knowhow](#Kaggle knowhow)
+- 캐글 우승작으로 배우는 머신러닝 탐구생활
+- From github.com/bjpublic/kaggleml
+- [Kaggle-Knowhow](#Kaggle-knowhow)
 
 - [Overview](#overview)
 
 # Kaggle know-how
-this Repo is forked from https://github.com/zzsza/Kaggle-knowhow
-[click](kaggle-knowhow)
+- this Repo is forked from https://github.com/zzsza/Kaggle-knowhow
+- [click](kaggle-knowhow)
 # Overview
 ## most used Algorithm
 - XGBoost, LightGBM, CatBoost

@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle starts on June 9th 
+Kaggle From June 9th 
